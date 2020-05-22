@@ -46,6 +46,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Script\ControlPlayer.cs" />
      <Compile Include="Assets\Script\MenuActions.cs" />
      <Compile Include="Assets\Script\Quit.cs" />
      <None Include="Assets\Knight Files\Read Me.txt" />
