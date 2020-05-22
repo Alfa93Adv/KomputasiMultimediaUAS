@@ -19,17 +19,68 @@ Platform assembly: E:\Kuliah\Komputasi Multimedia\UAS\AlfaBrosUAS\data\scenes3_D
 Loading E:\Kuliah\Komputasi Multimedia\UAS\AlfaBrosUAS\data\scenes3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
 Platform assembly: E:\Kuliah\Komputasi Multimedia\UAS\AlfaBrosUAS\data\scenes3_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading E:\Kuliah\Komputasi Multimedia\UAS\AlfaBrosUAS\data\scenes3_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.073 seconds
+- Completed reload, in  0.063 seconds
 Platform assembly: E:\Kuliah\Komputasi Multimedia\UAS\AlfaBrosUAS\data\scenes3_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: E:\Kuliah\Komputasi Multimedia\UAS\AlfaBrosUAS\data\scenes3_Data\Managed\System.dll (this message is harmless)
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 4.196442 ms
+UnloadTime: 3.535993 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 18.339079 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 278.
+Total: 0.771998 ms (FindLiveObjects: 0.048888 ms CreateObjectMapping: 0.044444 ms MarkObjects: 0.641776 ms  DeleteObjects: 0.016888 ms)
+
+Scene 'Game1' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene 'Game3' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.435554 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 261.
+Total: 0.243999 ms (FindLiveObjects: 0.019555 ms CreateObjectMapping: 0.012888 ms MarkObjects: 0.204888 ms  DeleteObjects: 0.005777 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.483999 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 278.
+Total: 0.349777 ms (FindLiveObjects: 0.027555 ms CreateObjectMapping: 0.023999 ms MarkObjects: 0.289777 ms  DeleteObjects: 0.007111 ms)
+
+Scene 'Game2' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.475554 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 261.
+Total: 0.228444 ms (FindLiveObjects: 0.022222 ms CreateObjectMapping: 0.013333 ms MarkObjects: 0.186666 ms  DeleteObjects: 0.005333 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.441332 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 278.
+Total: 0.262666 ms (FindLiveObjects: 0.022222 ms CreateObjectMapping: 0.016888 ms MarkObjects: 0.215999 ms  DeleteObjects: 0.006222 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.515554 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 261.
+Total: 0.424888 ms (FindLiveObjects: 0.038666 ms CreateObjectMapping: 0.023999 ms MarkObjects: 0.353332 ms  DeleteObjects: 0.008444 ms)
+
 Keluar Game
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: e30 -> priority: 1 
+  Thread -> id: 31a4 -> priority: 1 

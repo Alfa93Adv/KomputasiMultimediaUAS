@@ -17,13 +17,9 @@ Platform assembly: E:\Kuliah\Komputasi Multimedia\UAS\AlfaBrosUAS\coba_Data\Mana
 Loading E:\Kuliah\Komputasi Multimedia\UAS\AlfaBrosUAS\coba_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
 Platform assembly: E:\Kuliah\Komputasi Multimedia\UAS\AlfaBrosUAS\coba_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading E:\Kuliah\Komputasi Multimedia\UAS\AlfaBrosUAS\coba_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.118 seconds
+- Completed reload, in  0.062 seconds
 Platform assembly: E:\Kuliah\Komputasi Multimedia\UAS\AlfaBrosUAS\coba_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: E:\Kuliah\Komputasi Multimedia\UAS\AlfaBrosUAS\coba_Data\Managed\System.dll (this message is harmless)
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-<RI> Initialized touch support.
-UnloadTime: 2.453776 ms
-Setting up 1 worker threads for Enlighten.
-  Thread -> id: 353c -> priority: 1 
