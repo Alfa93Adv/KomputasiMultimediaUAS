@@ -19,25 +19,25 @@ Platform assembly: E:\Kuliah\Komputasi Multimedia\UAS\AlfaBrosUAS\data\scenes4_D
 Loading E:\Kuliah\Komputasi Multimedia\UAS\AlfaBrosUAS\data\scenes4_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
 Platform assembly: E:\Kuliah\Komputasi Multimedia\UAS\AlfaBrosUAS\data\scenes4_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading E:\Kuliah\Komputasi Multimedia\UAS\AlfaBrosUAS\data\scenes4_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.067 seconds
+- Completed reload, in  0.052 seconds
 Platform assembly: E:\Kuliah\Komputasi Multimedia\UAS\AlfaBrosUAS\data\scenes4_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: E:\Kuliah\Komputasi Multimedia\UAS\AlfaBrosUAS\data\scenes4_Data\Managed\System.dll (this message is harmless)
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 3.503109 ms
+UnloadTime: 3.191555 ms
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 7.203552 ms
+UnloadTime: 14.853777 ms
 
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 278.
-Total: 0.312444 ms (FindLiveObjects: 0.030222 ms CreateObjectMapping: 0.033333 ms MarkObjects: 0.230666 ms  DeleteObjects: 0.007111 ms)
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 280.
+Total: 0.427111 ms (FindLiveObjects: 0.030222 ms CreateObjectMapping: 0.026666 ms MarkObjects: 0.348888 ms  DeleteObjects: 0.008888 ms)
 
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.980888 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.577777 ms
 
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 290.
-Total: 0.684444 ms (FindLiveObjects: 0.064888 ms CreateObjectMapping: 0.078666 ms MarkObjects: 0.507999 ms  DeleteObjects: 0.031111 ms)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 328.
+Total: 0.354666 ms (FindLiveObjects: 0.040444 ms CreateObjectMapping: 0.026222 ms MarkObjects: 0.279111 ms  DeleteObjects: 0.007555 ms)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 1ed8 -> priority: 1 
+  Thread -> id: 2060 -> priority: 1 

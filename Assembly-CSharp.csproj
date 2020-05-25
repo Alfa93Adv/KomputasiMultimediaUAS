@@ -46,10 +46,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Script\Backsound.cs" />
      <Compile Include="Assets\Script\ControlPlayer.cs" />
+     <Compile Include="Assets\Script\Layar.cs" />
      <Compile Include="Assets\Script\MenuActions.cs" />
      <Compile Include="Assets\Script\Quit.cs" />
+     <Compile Include="Assets\Script\Score.cs" />
+     <Compile Include="Assets\Script\playerscore.cs" />
      <None Include="Assets\Knight Files\Read Me.txt" />
+     <None Include="Assets\CasualGameBGM05\ReadMe.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
