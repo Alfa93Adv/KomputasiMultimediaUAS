@@ -47,9 +47,12 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Script\Backsound.cs" />
+     <Compile Include="Assets\Script\CheckPoint.cs" />
      <Compile Include="Assets\Script\ControlPlayer.cs" />
+     <Compile Include="Assets\Script\End.cs" />
      <Compile Include="Assets\Script\Layar.cs" />
      <Compile Include="Assets\Script\MenuActions.cs" />
+     <Compile Include="Assets\Script\PlayerMati.cs" />
      <Compile Include="Assets\Script\Quit.cs" />
      <Compile Include="Assets\Script\Score.cs" />
      <Compile Include="Assets\Script\playerscore.cs" />
